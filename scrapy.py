@@ -2,7 +2,7 @@
 """
 Created on Sat Apr 16 23:53:03 2016
 
-@author: mohit
+@author: arslan
 """
 #import the two libraries we will be using in this script
 import urllib2,sys,re,time
